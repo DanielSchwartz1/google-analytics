@@ -4,3 +4,8 @@ The script downloads the new versions, checks if it is different and replace it 
 
 # google-analytics
 Bash script to get the newest version of analytics.js / gtags.js to get 100% pagespeed for your wordpress page
+
+## Archived
+
+This repository has been consolidated into:
+-> [https://github.com/DanielSchwartz1/practical-scripts](https://github.com/DanielSchwartz1/practical-scripts)
